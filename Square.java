@@ -1,10 +1,9 @@
 
-public class Square
-{
+public class Square{
     private int num;
     public boolean isBlack = false;
-    public Square(boolean black, int n){
+    public Square(boolean black, int number){
         isBlack = black;
-        num  = n;
+        num  = number;
     }
 }
