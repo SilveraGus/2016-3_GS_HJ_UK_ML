@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Crossword
+comment1.params=blackSquares
+comment1.target=Crossword(boolean[][])
+comment2.params=r\ c\ blackSquares
+comment2.target=boolean\ toBeLabeled(int,\ int,\ boolean[][])
+numComments=3
